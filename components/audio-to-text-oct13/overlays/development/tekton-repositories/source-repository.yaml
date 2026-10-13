@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: audio-to-text-oct13-repository
+spec:
+  url: https://github.com/rhdh-JslYoon-org/audio-to-text-oct13
